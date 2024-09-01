@@ -1,3 +1,7 @@
+Install the json-server npm package
+
+npm install json-server
+
 Start the application by running the npm start command from the terminal.
 
 npm start
